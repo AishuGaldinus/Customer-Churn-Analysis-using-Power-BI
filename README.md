@@ -1,13 +1,17 @@
-**Customer churn: **
+**Customer churn:**
+
 This is essentially the rate at which customers leave a business against the total customers that are actively in business. This is also known as churn rate or customer attrition.
 
 **Project Objective:**
+
 The objective of this analysis is to discover various factors contributing to increased customer churn rate at the bank, and provide the business users with these insights which they can use to make informed decisions and strategize on how to improve customer retention and reduce churn rate.
 
-**Tools: **
+**Tools:**
+
 I used Power BI and Power Query for this analysis.
 
 **Data Dictionary:**
+
 customer_id: This is the customers’ unique id which identifies them bankwide.
 credit_score: this is the rating of the customers’ credit worthiness, generated based on the information on their credit report.
 country: This is the country the customer hails from.
